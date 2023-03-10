@@ -2,7 +2,7 @@
  
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
----> <Goals/> <---
+---> Goals <---
 
 - Become a dev. engineer
 - Also work at front-end development business;
