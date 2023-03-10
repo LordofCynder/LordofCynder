@@ -1,6 +1,6 @@
   👋 Hi, Welcome to my profile! | I’m @LordofCynder, a fulll-stack certified web developer | My name is Igor Estephanele and I have 20 years old.
  
-+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+===+=+=+=+=+=+=+=+=+
 
 ---> Goals <---
 
@@ -35,7 +35,7 @@
 - Be a good professional with good practices;
 - Improve my hard skills to work on different steps and situations in the daily business.
 
-+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=++=+
 
 ---> How to reach me? <---
 
