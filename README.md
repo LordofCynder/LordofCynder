@@ -1,6 +1,4 @@
-  👋 Hi, Welcome to my profile!
-   -> I’m @LordofCynder, a fulll-stack certified web developer;
-   -> My name is Igor Estephanele and I have 20 years old.
+  👋 Hi, Welcome to my profile! | I’m @LordofCynder, a fulll-stack certified web developer | My name is Igor Estephanele and I have 20 years old.
  
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
@@ -13,7 +11,7 @@
 
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
----> <Learnings/> <---
+---> Learnings <---
 
 -  HTML5 (complete!)
 -  CSS3 (complete!)
@@ -31,7 +29,7 @@
 
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
----> <Objectives/> <---
+---> Objectives <---
 
 - I'm looking to collaborate on business dev team;
 - Be a good professional with good practices;
@@ -39,7 +37,7 @@
 
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
----> <How to reach me?/> <---
+---> How to reach me? <---
 
 - Follow me on LinkedIn: https://www.linkedin.com/in/igordev/
 - Follow me on Instagram: https://instagram.com/esteigor?igshid=ZDdkNTZiNTM=
