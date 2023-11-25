@@ -1,4 +1,4 @@
-  👋 Hi, Welcome to my profile! | I’m @LordofCynder, a fulll-stack certified web developer | My name is Igor Estephanele and I have 20 years old.
+  👋 Hi, Welcome to my profile! | I’m a fulll-stack certified web developer | My name is Igor Anjos and I have 20 years old.
  
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+===+=+=+=+=+=+=+=+=+
 
